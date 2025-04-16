@@ -11,7 +11,7 @@
 
 ## 🧠 Course Overview
 
-This repository contains lab-based learning and practical exercises completed as part of the **PL-300T00** instructor-led course. The course focused on preparing, modeling, visualizing, and analyzing data using Power BI, with a strong emphasis on real-world application of BI concepts and tools.
+This repository contains lab-based learning and practical exercises completed as part of the **PL-300T00** instructor-led course. The course focused on preparing, modelling, visualising, and analysing data using Power BI, with a strong emphasis on real-world application of BI concepts and tools.
 
 ---
 
@@ -26,12 +26,12 @@ Each lab represents a core competency area of Power BI development:
 
 ### 2. **Load Transformed Data in Power BI Desktop**
 - Applied Power Query to clean and shape data
-- Removed errors, filtered rows, changed data types
+- Removed errors, filtered rows, and changed data types
 
 ### 3. **Design a Data Model in Power BI**
 - Built relationships between tables
 - Configured star schemas
-- Set default summarization and data categories
+- Set default summarisation and data categories
 
 ### 4. **Create DAX Calculations in Power BI Desktop**
 - Created calculated columns and measures
@@ -52,7 +52,7 @@ Each lab represents a core competency area of Power BI development:
 
 ### 8. **Enhance a Report in Power BI Desktop**
 - Added drillthrough, bookmarks, and tooltips
-- Customized themes and titles for branding
+- Customised themes and titles for branding
 
 ### 9. **Perform Data Analysis in Power BI**
 - Used Q&A visuals, filters, and slicers
@@ -73,7 +73,7 @@ Each lab represents a core competency area of Power BI development:
 ## ✅ Key Skills Demonstrated
 
 - Data transformation with Power Query
-- Building and optimizing data models
+- Building and optimising data models
 - Writing DAX calculations (basic to advanced)
 - Designing interactive reports and dashboards
 - Implementing Row-Level Security (RLS)
