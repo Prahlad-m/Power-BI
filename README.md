@@ -70,7 +70,7 @@ Each lab represents a core competency area of Power BI development:
 
 ---
 
-<img src="Images/AWDOverview.png" width="4000" >
+<img src="Images/AWDOverview2.png" width="4000" >
 
 <img src="Images/AWDProfit.png" width="4000" >
 
