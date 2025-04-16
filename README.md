@@ -70,6 +70,10 @@ Each lab represents a core competency area of Power BI development:
 
 ---
 
+<img src="Images/AdventureWorksDashboard.png" width="4000" >
+
+---
+
 ## ✅ Key Skills Demonstrated
 
 - Data transformation with Power Query
